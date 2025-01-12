@@ -12,7 +12,7 @@ namespace ProductsAdministration.API.Controllers
     {
         private readonly IProductService _productService;
 
-        public ProductController(IProductService productService)
+        public ProductController(IProductService productService, IImageService imageService)
         {
             _productService = productService;
         }
@@ -21,19 +21,22 @@ namespace ProductsAdministration.API.Controllers
         public async Task<ActionResult> AddProduct(ProductDto productDto)
         {
             await _productService.AddProduct(productDto);
+
             return Ok();
         }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<ProductDto>> GetProductById(int id)
         {
-            return await _productService.GetProductById(id);
+            var product = await _productService.GetProductById(id);
+
+            return Ok(product);
         }
 
-        [HttpGet]
+        [HttpGet("All")]
         public async Task<ActionResult<IEnumerable<ProductDto>>> GetAllProducts()
         {
-            var productDtos = _productService.GetProducts();
+            var productDtos = await _productService.GetProducts();
 
             return Ok(productDtos);
         }

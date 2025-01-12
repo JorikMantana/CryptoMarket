@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "1E8wIM7lwbH7H2xJU0TkdXIszWeUSgdv5kuQthk3Mzk=",
+  "Source": "ProductsAdministration.API",
+  "BasePath": "_content/ProductsAdministration.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductsAdministration.API\\wwwroot",
+      "Source": "ProductsAdministration.API",
+      "ContentRoot": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "BasePath": "_content/ProductsAdministration.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

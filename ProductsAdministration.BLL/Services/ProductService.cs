@@ -41,7 +41,7 @@ namespace ProductsAdministration.BLL.Services
 
         public async Task<IEnumerable<ProductDto>> GetProducts()
         {
-            var products = _productRepository.GetProducts();
+            var products = await _productRepository.GetProducts();
 
             return products.Adapt<IEnumerable<ProductDto>>();
         }

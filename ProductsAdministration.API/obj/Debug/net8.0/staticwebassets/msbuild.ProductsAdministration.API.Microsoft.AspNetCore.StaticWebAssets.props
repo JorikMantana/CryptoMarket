@@ -1,0 +1,20 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProductsAdministration.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProductsAdministration.API</BasePath>
+      <RelativePath>Images/1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

@@ -3,48 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|solutionrelative:productsadministration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|solutionrelative:productsadministration.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|solutionrelative:productsadministration.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|solutionrelative:productsadministration.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.api\\productsadministration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|solutionrelative:productsadministration.api\\productsadministration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\productsadministration.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\productsadministration.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|solutionrelative:productsadministration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70D9D4BB-6E42-46E7-A964-05AB2E28251C}|ProductsAdministration.API\\ProductsAdministration.API.csproj|solutionrelative:productsadministration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\repositories\\irepositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\repositories\\irepositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\services\\iservices\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\services\\iservices\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\dto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\dto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\repositories\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\repositories\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\productsadministration.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\productsadministration.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.bll\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C58ED1-C91D-4A38-8B2B-5CB985A88612}|ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj|solutionrelative:productsadministration.bll\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|c:\\users\\bicks\\source\\repos\\cryptomarket\\productsadministration.dal\\migrations\\20250111043152_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834E2DD3-D785-4479-87A4-3E8DF7D1BE44}|ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj|solutionrelative:productsadministration.dal\\migrations\\20250111043152_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,50 +86,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsAdministration.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\appsettings.json",
+              "RelativeToolTip": "ProductsAdministration.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T03:59:21.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.API\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "ProductsAdministration.API\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:22:07.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\Services\\IServices\\IImageService.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.BLL\\Services\\IServices\\IImageService.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\Services\\IServices\\IImageService.cs",
+              "RelativeToolTip": "ProductsAdministration.BLL\\Services\\IServices\\IImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:56:02.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\DTO\\ImageDto.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.BLL\\DTO\\ImageDto.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\DTO\\ImageDto.cs",
+              "RelativeToolTip": "ProductsAdministration.BLL\\DTO\\ImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:55:33.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductsAdministration.API\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductsAdministration.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAgAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T05:09:58.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T05:09:58.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsAdministration.BLL",
-              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj",
-              "RelativeDocumentMoniker": "ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj",
-              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj",
-              "RelativeToolTip": "ProductsAdministration.BLL\\ProductsAdministration.BLL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-10T04:46:56.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "ProductsAdministration.BLL\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\Services\\ProductService.cs",
               "RelativeToolTip": "ProductsAdministration.BLL\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T04:45:10.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T04:45:10.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "ProductsAdministration.API.csproj",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\ProductsAdministration.API.csproj",
+              "RelativeDocumentMoniker": "ProductsAdministration.API\\ProductsAdministration.API.csproj",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\ProductsAdministration.API.csproj",
+              "RelativeToolTip": "ProductsAdministration.API\\ProductsAdministration.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T04:15:04.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250111043152_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Migrations\\20250111043152_Initial.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.DAL\\Migrations\\20250111043152_Initial.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Migrations\\20250111043152_Initial.cs",
+              "RelativeToolTip": "ProductsAdministration.DAL\\Migrations\\20250111043152_Initial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:31:53.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Repositories\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.DAL\\Repositories\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Repositories\\ImageRepository.cs",
+              "RelativeToolTip": "ProductsAdministration.DAL\\Repositories\\ImageRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:44:32.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.API\\Program.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\Program.cs",
+              "RelativeToolTip": "ProductsAdministration.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:03:47.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Repositories\\IRepositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.DAL\\Repositories\\IRepositories\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Repositories\\IRepositories\\IImageRepository.cs",
+              "RelativeToolTip": "ProductsAdministration.DAL\\Repositories\\IRepositories\\IImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:42:10.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.DAL\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Models\\Image.cs",
+              "RelativeToolTip": "ProductsAdministration.DAL\\Models\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:40:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\DTO\\ProductDto.cs",
               "RelativeDocumentMoniker": "ProductsAdministration.BLL\\DTO\\ProductDto.cs",
@@ -105,25 +247,35 @@
               "RelativeToolTip": "ProductsAdministration.BLL\\DTO\\ProductDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T04:09:58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T04:09:58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\Services\\IServices\\IProductService.cs",
               "RelativeDocumentMoniker": "ProductsAdministration.BLL\\Services\\IServices\\IProductService.cs",
               "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\Services\\IServices\\IProductService.cs",
               "RelativeToolTip": "ProductsAdministration.BLL\\Services\\IServices\\IProductService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T04:09:16.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T04:09:16.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "ProductsAdministration.BLL\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.BLL\\Services\\ImageService.cs",
+              "RelativeToolTip": "ProductsAdministration.BLL\\Services\\ImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:56:51.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Repositories\\IRepositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "ProductsAdministration.DAL\\Repositories\\IRepositories\\IProductRepository.cs",
@@ -131,42 +283,35 @@
               "RelativeToolTip": "ProductsAdministration.DAL\\Repositories\\IRepositories\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:20:21.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T03:20:21.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ProductsAdministration.DAL\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "ProductsAdministration.DAL\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:20:04.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T03:20:04.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ProductsAdministration.DAL\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ProductsAdministration.DAL\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:15:49.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-01-10T03:15:49.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductsAdministration.DAL\\Models\\Product.cs",
@@ -174,34 +319,7 @@
               "RelativeToolTip": "ProductsAdministration.DAL\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:14:07.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\Program.cs",
-              "RelativeDocumentMoniker": "ProductsAdministration.API\\Program.cs",
-              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\Program.cs",
-              "RelativeToolTip": "ProductsAdministration.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:03:47.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductsAdministration.DAL",
-              "DocumentMoniker": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj",
-              "RelativeDocumentMoniker": "ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj",
-              "ToolTip": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj",
-              "RelativeToolTip": "ProductsAdministration.DAL\\ProductsAdministration.DAL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-10T03:14:08.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T03:14:07.98Z"
             }
           ]
         }

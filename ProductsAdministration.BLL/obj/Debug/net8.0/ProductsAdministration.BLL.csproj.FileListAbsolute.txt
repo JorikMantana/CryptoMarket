@@ -1,0 +1,16 @@
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\bin\Debug\net8.0\ProductsAdministration.BLL.deps.json
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\bin\Debug\net8.0\ProductsAdministration.BLL.dll
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\bin\Debug\net8.0\ProductsAdministration.BLL.pdb
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\bin\Debug\net8.0\ProductsAdministration.DAL.dll
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\bin\Debug\net8.0\ProductsAdministration.DAL.pdb
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ProductsAdministration.BLL.csproj.AssemblyReference.cache
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ProductsAdministration.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ProductsAdministration.BLL.AssemblyInfoInputs.cache
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ProductsAdministration.BLL.AssemblyInfo.cs
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ProductsAdministration.BLL.csproj.CoreCompileInputs.cache
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ProductsAdministration.BLL.sourcelink.json
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\Products.A77A197D.Up2Date
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ProductsAdministration.BLL.dll
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\refint\ProductsAdministration.BLL.dll
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ProductsAdministration.BLL.pdb
+C:\Users\bicks\source\repos\CryptoMarket\ProductsAdministration.BLL\obj\Debug\net8.0\ref\ProductsAdministration.BLL.dll

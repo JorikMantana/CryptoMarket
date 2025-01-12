@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429",
+      "PackagePath": "staticwebassets\\Images\\1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductsAdministration.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProductsAdministration.API.props",
+      "PackagePath": "build\\ProductsAdministration.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductsAdministration.API.props",
+      "PackagePath": "buildMultiTargeting\\ProductsAdministration.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProductsAdministration.API.props",
+      "PackagePath": "buildTransitive\\ProductsAdministration.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
