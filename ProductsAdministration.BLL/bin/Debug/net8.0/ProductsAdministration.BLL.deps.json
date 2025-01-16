@@ -578,7 +578,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
         },
         "runtime": {
-          "ProductsAdministration.DAL.dll": {}
+          "ProductsAdministration.DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

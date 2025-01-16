@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\3e1599a0-8b64-4ffb-9494-8ca5a7cb4189_1jpg.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>ProductsAdministration.API</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ProductsAdministration.API</BasePath>
-      <RelativePath>Images/1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429</RelativePath>
+      <RelativePath>Images/3e1599a0-8b64-4ffb-9494-8ca5a7cb4189_1jpg.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -14,7 +14,23 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\3e1599a0-8b64-4ffb-9494-8ca5a7cb4189_1jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\f33ee5ea-0410-4ab2-a3ec-dd1a1dc0270d_Снимок экрана (1).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProductsAdministration.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProductsAdministration.API</BasePath>
+      <RelativePath>Images/f33ee5ea-0410-4ab2-a3ec-dd1a1dc0270d_Снимок экрана (1).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\f33ee5ea-0410-4ab2-a3ec-dd1a1dc0270d_Снимок экрана (1).png))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

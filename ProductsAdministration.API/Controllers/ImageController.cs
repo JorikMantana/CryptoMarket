@@ -5,7 +5,7 @@ using ProductsAdministration.BLL.Services.IServices;
 namespace ProductsAdministration.API.Controllers
 {
     [ApiController]
-    [Route("controller")]
+    [Route("/api/[controller]")]
     public class ImageController : Controller
     {
         private IImageService _imageServie;

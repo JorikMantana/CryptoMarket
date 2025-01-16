@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\bicks\\source\\repos\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429",
-      "PackagePath": "staticwebassets\\Images\\1jpg.jpg_73008dad-ae86-4b07-bf90-d7eda7dbf429"
+      "Id": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\3e1599a0-8b64-4ffb-9494-8ca5a7cb4189_1jpg.jpg",
+      "PackagePath": "staticwebassets\\Images\\3e1599a0-8b64-4ffb-9494-8ca5a7cb4189_1jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\f33ee5ea-0410-4ab2-a3ec-dd1a1dc0270d_Снимок экрана (1).png",
+      "PackagePath": "staticwebassets\\Images\\f33ee5ea-0410-4ab2-a3ec-dd1a1dc0270d_Снимок экрана (1).png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductsAdministration.API.Microsoft.AspNetCore.StaticWebAssets.props",

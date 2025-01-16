@@ -7,7 +7,7 @@ using System.Runtime.CompilerServices;
 namespace ProductsAdministration.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("/api/[controller]")]
     public class ProductController : Controller
     {
         private readonly IProductService _productService;
