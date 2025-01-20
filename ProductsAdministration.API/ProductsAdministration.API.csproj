@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\JwtAuthenticationManager\JwtAuthenticationManager.csproj" />
     <ProjectReference Include="..\ProductsAdministration.BLL\ProductsAdministration.BLL.csproj" />
   </ItemGroup>
 

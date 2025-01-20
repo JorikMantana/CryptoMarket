@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using ProductsAdministration.BLL.DTO;
 using ProductsAdministration.BLL.Services.IServices;
 using System.Runtime.CompilerServices;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ProductsAdministration.API.Controllers
 {
@@ -18,6 +19,7 @@ namespace ProductsAdministration.API.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult> AddProduct(ProductDto productDto)
         {
             await _productService.AddProduct(productDto);
@@ -42,6 +44,7 @@ namespace ProductsAdministration.API.Controllers
         }
 
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult> DeleteProduct(int id)
         {
             await _productService.DeleteProduct(id);
@@ -50,6 +53,7 @@ namespace ProductsAdministration.API.Controllers
         }
 
         [HttpPut]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult> UpdateProduct(ProductDto productDto)
         {
             await _productService.UpdateProduct(productDto);

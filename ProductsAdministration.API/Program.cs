@@ -1,3 +1,4 @@
+using JwtAuthenticationManager;
 using ProductsAdministration.BLL.Services;
 using ProductsAdministration.BLL.Services.IServices;
 using ProductsAdministration.DAL.Repositories;
@@ -8,6 +9,7 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
+builder.Services.AddCustomJwtAuthentication();
 
 builder.Services.AddSwaggerGen();
 
@@ -34,6 +36,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.UseHttpsRedirection();

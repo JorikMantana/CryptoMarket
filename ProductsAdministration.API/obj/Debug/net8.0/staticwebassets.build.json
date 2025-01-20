@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rlLOvU+Sv/pksq4n6QSk4BJDrrBGrmM59JNq6IUGA6s=",
+  "Hash": "Z+lXHT/Y/KQf8ilqaLOU0yQViLshgpsQN0G34f2oY9g=",
   "Source": "ProductsAdministration.API",
   "BasePath": "_content/ProductsAdministration.API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\3e1599a0-8b64-4ffb-9494-8ca5a7cb4189_1jpg.jpg",
+      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\b6ee3f86-79f2-4036-8356-ed0afa667ae4_Снимок экрана (1).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
       "BasePath": "_content/ProductsAdministration.API",
-      "RelativePath": "Images/3e1599a0-8b64-4ffb-9494-8ca5a7cb4189_1jpg.jpg",
+      "RelativePath": "Images/b6ee3f86-79f2-4036-8356-ed0afa667ae4_Снимок экрана (1).png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,26 +33,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\3e1599a0-8b64-4ffb-9494-8ca5a7cb4189_1jpg.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\f33ee5ea-0410-4ab2-a3ec-dd1a1dc0270d_Снимок экрана (1).png",
-      "SourceId": "ProductsAdministration.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
-      "BasePath": "_content/ProductsAdministration.API",
-      "RelativePath": "Images/f33ee5ea-0410-4ab2-a3ec-dd1a1dc0270d_Снимок экрана (1).png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\f33ee5ea-0410-4ab2-a3ec-dd1a1dc0270d_Снимок экрана (1).png"
+      "OriginalItemSpec": "wwwroot\\Images\\b6ee3f86-79f2-4036-8356-ed0afa667ae4_Снимок экрана (1).png"
     }
   ]
 }

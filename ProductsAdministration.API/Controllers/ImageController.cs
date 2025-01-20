@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ProductsAdministration.BLL.DTO;
 using ProductsAdministration.BLL.Services.IServices;
 
@@ -16,33 +17,50 @@ namespace ProductsAdministration.API.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult> AddImages(IEnumerable<IFormFile> images, int productId)
         {
+            if (images == null || !images.Any())
+            {
+                return BadRequest("No images provided.");
+            }
+
             foreach (var image in images)
             {
-                var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Images");
-                var uniqueFileName = Guid.NewGuid().ToString() + "_" + image.FileName; 
-                var filePath = Path.Combine(uploadsFolder, uniqueFileName);
-
-
-                using (var stream = new FileStream(filePath, FileMode.Create))
+                try
                 {
-                    await image.CopyToAsync(stream);
+                    var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Images");
+                    if (!Directory.Exists(uploadsFolder))
+                    {
+                        Directory.CreateDirectory(uploadsFolder);
+                    }
+                    var uniqueFileName = Guid.NewGuid().ToString() + "_" + image.FileName; 
+                    var filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await image.CopyToAsync(stream);
+                    }
+
+                    string relativePath = $"/Images/{uniqueFileName}";
+
+                    var imageDto = new ImageDto
+                    {
+                        ProductId = productId,
+                        ImagePath = relativePath
+                    };
+
+                    await _imageServie.AddImage(imageDto);
                 }
-
-                string relativePath = $"/Images/{uniqueFileName}";
-
-                var imageDto = new ImageDto
+                catch (Exception ex)
                 {
-                    ProductId = productId,
-                    ImagePath = relativePath
-                };
-
-                await _imageServie.AddImage(imageDto);
+                    return StatusCode(500, $"Internal server error: {ex.Message}");
+                }
             }
 
             return Ok();
         }
+
 
         [HttpGet("{productId}")]
         public async Task<ActionResult<IEnumerable<ImageDto>>> GetImagesByProductId(int productId)
@@ -53,6 +71,7 @@ namespace ProductsAdministration.API.Controllers
         }
 
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult> DeleteImage(int id)
         {
             await _imageServie.DeleteImage(id);

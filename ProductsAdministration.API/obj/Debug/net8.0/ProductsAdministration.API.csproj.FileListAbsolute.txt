@@ -286,3 +286,6 @@ C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj
 C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.pdb
 C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.genruntimeconfig.cache
 C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ref\ProductsAdministration.API.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\bin\Debug\net8.0\JwtAuthenticationManager.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\bin\Debug\net8.0\JwtAuthenticationManager.pdb
