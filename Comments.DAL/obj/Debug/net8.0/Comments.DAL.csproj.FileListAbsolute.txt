@@ -1,0 +1,15 @@
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\bin\Debug\net8.0\Comments.DAL.deps.json
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\bin\Debug\net8.0\Comments.DAL.runtimeconfig.json
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\bin\Debug\net8.0\Comments.DAL.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\bin\Debug\net8.0\Comments.DAL.pdb
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.csproj.AssemblyReference.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.AssemblyInfoInputs.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.AssemblyInfo.cs
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.sourcelink.json
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\refint\Comments.DAL.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.pdb
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\Comments.DAL.genruntimeconfig.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Comments.DAL\obj\Debug\net8.0\ref\Comments.DAL.dll
