@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Orders.BLL.DTOs;
 using Orders.BLL.Services.Interfaces;
 
@@ -16,6 +17,7 @@ public class OrdersController : Controller
     }
     
     [HttpGet]
+    [Authorize(Roles = "Admin")]
     public async Task<ActionResult<IEnumerable<OrderDto>>> GetOrders()
     {
         var orders = await _orderService.GetOrders();
@@ -23,6 +25,7 @@ public class OrdersController : Controller
     }
 
     [HttpGet("{orderId}")]
+    [Authorize(Roles = "Admin")]
     public async Task<ActionResult<OrderDto>> GetOrderById(int id)
     {
         var order = await _orderService.GetOrderById(id);
@@ -30,6 +33,7 @@ public class OrdersController : Controller
     }
 
     [HttpGet("{customerId}")]
+    [Authorize(Roles = "Admin")]
     public async Task<ActionResult<IEnumerable<OrderDto>>> GetOrdersByCustomerId(int customerId)
     {
         var orders = await _orderService.GetOrdersByCustomerId(customerId);

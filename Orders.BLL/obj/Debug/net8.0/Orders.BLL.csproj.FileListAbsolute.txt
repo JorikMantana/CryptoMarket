@@ -1,0 +1,16 @@
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\bin\Debug\net8.0\Orders.BLL.deps.json
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\bin\Debug\net8.0\Orders.BLL.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\bin\Debug\net8.0\Orders.BLL.pdb
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\bin\Debug\net8.0\Orders.DAL.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\bin\Debug\net8.0\Orders.DAL.pdb
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.csproj.AssemblyReference.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.AssemblyInfoInputs.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.AssemblyInfo.cs
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.sourcelink.json
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.csproj.Up2Date
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\refint\Orders.BLL.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\Orders.BLL.pdb
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\Orders.BLL\obj\Debug\net8.0\ref\Orders.BLL.dll
