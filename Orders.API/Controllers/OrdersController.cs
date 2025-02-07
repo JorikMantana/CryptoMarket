@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Orders.BLL.DTOs;
 using Orders.BLL.Services.Interfaces;
+using Orders.DAL.Models;
 
 namespace Orders.API.Controllers;
 
@@ -14,6 +15,14 @@ public class OrdersController : Controller
     public OrdersController(IOrderService orderService)
     {
         _orderService = orderService;
+    }
+
+    [Authorize]
+    [HttpPost]
+    public async Task<ActionResult> AddOrder(OrderDto orderDto)
+    {
+        await _orderService.AddOrder(orderDto);
+        return Ok();
     }
     
     [HttpGet]
