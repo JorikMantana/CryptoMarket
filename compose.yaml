@@ -1,0 +1,40 @@
+﻿services:
+  authentication.api:
+    image: authentication.api
+    build:
+      context: .
+      dockerfile: Authentication.API/Dockerfile
+    ports:
+      - "5002:80"
+
+  comments.api:
+    image: comments.api
+    build:
+      context: .
+      dockerfile: Comments.API/Dockerfile
+    ports:
+      - "5004:80"
+
+  orders.api:
+    image: orders.api
+    build:
+      context: .
+      dockerfile: Orders.API/Dockerfile
+    ports:
+      - "5005:80"
+
+  productsadministration.api:
+    image: productsadministration.api
+    build:
+      context: .
+      dockerfile: ProductsAdministration.API/Dockerfile
+    ports:
+      - "5003:80"
+
+  apigateway:
+    image: apigateway
+    build:
+      context: .
+      dockerfile: ApiGateway/Dockerfile
+    ports:
+      - "5000:80"

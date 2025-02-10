@@ -1,0 +1,98 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  apigateway:
+    build:
+      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      dockerfile: "ApiGateway/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/ApiGateway.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "apigateway:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ApiGateway:/app:rw"
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
+    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"
+  authentication.api:
+    build:
+      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      dockerfile: "Authentication.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/Authentication.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "authentication.api:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Authentication.API:/app:rw"
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
+    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"
+  comments.api:
+    build:
+      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      dockerfile: "Comments.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/Comments.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "comments.api:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.API:/app:rw"
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
+    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"
+  orders.api:
+    build:
+      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      dockerfile: "Orders.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/Orders.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "orders.api:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Orders.API:/app:rw"
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
+    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"
+  productsadministration.api:
+    build:
+      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      dockerfile: "ProductsAdministration.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/ProductsAdministration.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ASPNETCORE_STATICWEBASSETS: "/app/bin/Debug/net8.0/ProductsAdministration.API.staticwebassets.runtime.CT.json"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "productsadministration.api:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API:/app:rw"
+    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
+    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"

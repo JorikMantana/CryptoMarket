@@ -26,11 +26,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/Account/{everything}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7002
+          "Port": 5002
         }
       ],
       "UpstreamPathTemplate": "/api/Account/{everything}",
@@ -62,6 +62,6 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:7000"
+    "BaseUrl": "https://localhost:5000"
   }
 }

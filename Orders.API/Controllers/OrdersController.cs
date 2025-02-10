@@ -14,6 +14,13 @@ public class OrdersController : Controller
     {
         _orderService = orderService;
     }
+
+    [HttpPost]
+    public async Task<ActionResult> AddOrder(OrderDto orderDto)
+    {
+        await _orderService.AddOrder(orderDto);
+        return Ok();
+    }
     
     [HttpGet]
     public async Task<ActionResult<IEnumerable<OrderDto>>> GetOrders()
