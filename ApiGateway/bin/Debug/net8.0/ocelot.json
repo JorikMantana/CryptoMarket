@@ -26,7 +26,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/Account/{everything}",
+<<<<<<< HEAD
       "DownstreamScheme": "http",
+=======
+      "DownstreamScheme": "https",
+>>>>>>> origin/Blockchain
       "DownstreamHostAndPorts": [
         {
           "Host": "authentication.api",
@@ -38,11 +42,19 @@
     },
     {
       "DownstreamPathTemplate": "/api/Comments/{everything}",
+<<<<<<< HEAD
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "comments.api",
           "Port": 5004
+=======
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+>>>>>>> origin/Blockchain
         }
       ],
       "UpstreamPathTemplate": "/api/Comments/{everything}",
@@ -50,11 +62,19 @@
     },
     {
       "DownstreamPathTemplate": "/api/Orders/{everything}",
+<<<<<<< HEAD
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "orders.api",
           "Port": 5005
+=======
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7004
+>>>>>>> origin/Blockchain
         }
       ],
       "UpstreamPathTemplate": "/api/Orders/{everything}",

@@ -59,6 +59,18 @@
       ],
       "UpstreamPathTemplate": "/api/Orders/{everything}",
       "UpstreamHttpMethod": [ "Get", "Post", "Delete"]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Blockchain/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7005
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Blockchain/{everything}",
+      "UpstreamHttpMethod": ["Post"]
     }
   ],
   "GlobalConfiguration": {

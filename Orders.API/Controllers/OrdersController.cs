@@ -26,6 +26,7 @@ public class OrdersController : Controller
     
     [Authorize(Roles = "Admin")]
     [HttpGet]
+    [Authorize(Roles = "Admin")]
     public async Task<ActionResult<IEnumerable<OrderDto>>> GetOrders()
     {
         var orders = await _orderService.GetOrders();
@@ -34,6 +35,7 @@ public class OrdersController : Controller
 
     [Authorize(Roles = "Admin")]
     [HttpGet("{orderId}")]
+    [Authorize(Roles = "Admin")]
     public async Task<ActionResult<OrderDto>> GetOrderById(int id)
     {
         var order = await _orderService.GetOrderById(id);
@@ -42,6 +44,7 @@ public class OrdersController : Controller
 
     [Authorize(Roles = "Admin")]
     [HttpGet("{customerId}")]
+    [Authorize(Roles = "Admin")]
     public async Task<ActionResult<IEnumerable<OrderDto>>> GetOrdersByCustomerId(int customerId)
     {
         var orders = await _orderService.GetOrdersByCustomerId(customerId);

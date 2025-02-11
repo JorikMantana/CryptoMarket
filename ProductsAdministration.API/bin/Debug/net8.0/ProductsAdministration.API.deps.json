@@ -992,7 +992,11 @@
       "JwtAuthenticationManager/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
+<<<<<<< HEAD
           "Microsoft.EntityFrameworkCore": "9.0.1",
+=======
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+>>>>>>> origin/Blockchain
           "Microsoft.IdentityModel.Tokens": "8.0.0",
           "System.IdentityModel.Tokens.Jwt": "8.0.0"
         },

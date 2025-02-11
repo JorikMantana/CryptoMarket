@@ -1,3 +1,7 @@
 ﻿<Project>
+<<<<<<< HEAD
   <Import Project="../build/Orders.API.props" />
+=======
+  <Import Project="..\build\Orders.API.props" />
+>>>>>>> origin/Blockchain
 </Project>
