@@ -2,7 +2,7 @@
 services:
   apigateway:
     build:
-      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      context: "/home/wsr2024/RiderProjects/CryptoMarket"
       dockerfile: "ApiGateway/Dockerfile"
       target: "base"
     command: []
@@ -15,13 +15,13 @@ services:
     image: "apigateway:dev"
     ports: []
     volumes:
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ApiGateway:/app:rw"
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
-    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/.nuget/packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/RiderProjects/CryptoMarket/ApiGateway:/app:rw"
+    - "/home/wsr2024/RiderProjects/CryptoMarket:/src:rw"
     working_dir: "/app"
   authentication.api:
     build:
-      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      context: "/home/wsr2024/RiderProjects/CryptoMarket"
       dockerfile: "Authentication.API/Dockerfile"
       target: "base"
     command: []
@@ -34,13 +34,13 @@ services:
     image: "authentication.api:dev"
     ports: []
     volumes:
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Authentication.API:/app:rw"
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
-    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/.nuget/packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/RiderProjects/CryptoMarket/Authentication.API:/app:rw"
+    - "/home/wsr2024/RiderProjects/CryptoMarket:/src:rw"
     working_dir: "/app"
   comments.api:
     build:
-      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      context: "/home/wsr2024/RiderProjects/CryptoMarket"
       dockerfile: "Comments.API/Dockerfile"
       target: "base"
     command: []
@@ -53,13 +53,13 @@ services:
     image: "comments.api:dev"
     ports: []
     volumes:
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.API:/app:rw"
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
-    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/.nuget/packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/RiderProjects/CryptoMarket/Comments.API:/app:rw"
+    - "/home/wsr2024/RiderProjects/CryptoMarket:/src:rw"
     working_dir: "/app"
   orders.api:
     build:
-      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      context: "/home/wsr2024/RiderProjects/CryptoMarket"
       dockerfile: "Orders.API/Dockerfile"
       target: "base"
     command: []
@@ -72,13 +72,13 @@ services:
     image: "orders.api:dev"
     ports: []
     volumes:
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Orders.API:/app:rw"
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
-    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/.nuget/packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/RiderProjects/CryptoMarket/Orders.API:/app:rw"
+    - "/home/wsr2024/RiderProjects/CryptoMarket:/src:rw"
     working_dir: "/app"
   productsadministration.api:
     build:
-      context: "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket"
+      context: "/home/wsr2024/RiderProjects/CryptoMarket"
       dockerfile: "ProductsAdministration.API/Dockerfile"
       target: "base"
     command: []
@@ -92,7 +92,7 @@ services:
     image: "productsadministration.api:dev"
     ports: []
     volumes:
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API:/app:rw"
-    - "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket:/src:rw"
-    - "C:\\Users\\Jorik Mantana\\.nuget\\packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/.nuget/packages:/home/app/.nuget/packages"
+    - "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API:/app:rw"
+    - "/home/wsr2024/RiderProjects/CryptoMarket:/src:rw"
     working_dir: "/app"

@@ -15,10 +15,7 @@ builder.Services.AddSwaggerGen();
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(connectionString));
-
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(connectionString));
+    options.UseNpgsql(connectionString));
 
 //Repositories
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
@@ -42,4 +39,4 @@ app.UseAuthorization();
 app.UseHttpsRedirection();
 app.MapControllers();
 
-app.Run();
+app.Run("http://0.0.0.0:5001");

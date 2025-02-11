@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m7CjejwOSm7CE15H3DY4AP/Lzy7hmKOg1iUwKxFbti4=",
+  "Hash": "lMwoYGoM97pGb2SxHy761mztVYSkiKXSPmkzmLmVufc=",
   "Source": "ProductsAdministration.API",
   "BasePath": "_content/ProductsAdministration.API",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ProductsAdministration.API\\wwwroot",
+      "Name": "ProductsAdministration.API/wwwroot",
       "Source": "ProductsAdministration.API",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\0c4122ff-c08b-493c-ab24-5d6f02b1a149_Снимок экрана (1).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/0c4122ff-c08b-493c-ab24-5d6f02b1a149_Снимок экрана (1).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/0c4122ff-c08b-493c-ab24-5d6f02b1a149_Снимок экрана (1).png",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\0c4122ff-c08b-493c-ab24-5d6f02b1a149_Снимок экрана (1).png"
+      "OriginalItemSpec": "wwwroot/Images/0c4122ff-c08b-493c-ab24-5d6f02b1a149_Снимок экрана (1).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\1f525a9a-8ace-4b0a-b859-633ad9447605_Снимок экрана (1).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/1f525a9a-8ace-4b0a-b859-633ad9447605_Снимок экрана (1).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/1f525a9a-8ace-4b0a-b859-633ad9447605_Снимок экрана (1).png",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\1f525a9a-8ace-4b0a-b859-633ad9447605_Снимок экрана (1).png"
+      "OriginalItemSpec": "wwwroot/Images/1f525a9a-8ace-4b0a-b859-633ad9447605_Снимок экрана (1).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\3223dfc3-d7e6-4519-8bc0-73568bdd6c76_Снимок экрана (1).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/3223dfc3-d7e6-4519-8bc0-73568bdd6c76_Снимок экрана (1).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/3223dfc3-d7e6-4519-8bc0-73568bdd6c76_Снимок экрана (1).png",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\3223dfc3-d7e6-4519-8bc0-73568bdd6c76_Снимок экрана (1).png"
+      "OriginalItemSpec": "wwwroot/Images/3223dfc3-d7e6-4519-8bc0-73568bdd6c76_Снимок экрана (1).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\3e2c46eb-9db9-42ac-9c34-c8b575e96fea_Снимок экрана (2).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/3e2c46eb-9db9-42ac-9c34-c8b575e96fea_Снимок экрана (2).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/3e2c46eb-9db9-42ac-9c34-c8b575e96fea_Снимок экрана (2).png",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\3e2c46eb-9db9-42ac-9c34-c8b575e96fea_Снимок экрана (2).png"
+      "OriginalItemSpec": "wwwroot/Images/3e2c46eb-9db9-42ac-9c34-c8b575e96fea_Снимок экрана (2).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\54cd5ab3-76a7-4448-b664-43202bceed5f_Снимок экрана (2).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/54cd5ab3-76a7-4448-b664-43202bceed5f_Снимок экрана (2).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/54cd5ab3-76a7-4448-b664-43202bceed5f_Снимок экрана (2).png",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\54cd5ab3-76a7-4448-b664-43202bceed5f_Снимок экрана (2).png"
+      "OriginalItemSpec": "wwwroot/Images/54cd5ab3-76a7-4448-b664-43202bceed5f_Снимок экрана (2).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\5da3f4bb-e4c0-4e5b-bdce-be6c8da8198b_Снимок экрана (1).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/5da3f4bb-e4c0-4e5b-bdce-be6c8da8198b_Снимок экрана (1).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/5da3f4bb-e4c0-4e5b-bdce-be6c8da8198b_Снимок экрана (1).png",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\5da3f4bb-e4c0-4e5b-bdce-be6c8da8198b_Снимок экрана (1).png"
+      "OriginalItemSpec": "wwwroot/Images/5da3f4bb-e4c0-4e5b-bdce-be6c8da8198b_Снимок экрана (1).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\85dcddc7-381d-43ce-ac32-d29d84a1b4b1_Снимок экрана (1).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/85dcddc7-381d-43ce-ac32-d29d84a1b4b1_Снимок экрана (1).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/85dcddc7-381d-43ce-ac32-d29d84a1b4b1_Снимок экрана (1).png",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\85dcddc7-381d-43ce-ac32-d29d84a1b4b1_Снимок экрана (1).png"
+      "OriginalItemSpec": "wwwroot/Images/85dcddc7-381d-43ce-ac32-d29d84a1b4b1_Снимок экрана (1).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\9f37c066-783b-45c0-8832-9dd46ce7fd68_Снимок экрана (1).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/9f37c066-783b-45c0-8832-9dd46ce7fd68_Снимок экрана (1).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/9f37c066-783b-45c0-8832-9dd46ce7fd68_Снимок экрана (1).png",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\9f37c066-783b-45c0-8832-9dd46ce7fd68_Снимок экрана (1).png"
+      "OriginalItemSpec": "wwwroot/Images/9f37c066-783b-45c0-8832-9dd46ce7fd68_Снимок экрана (1).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\b2ca33db-97a1-43a8-b831-5acaf0b369eb_Снимок экрана (2).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/b2ca33db-97a1-43a8-b831-5acaf0b369eb_Снимок экрана (2).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/b2ca33db-97a1-43a8-b831-5acaf0b369eb_Снимок экрана (2).png",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\b2ca33db-97a1-43a8-b831-5acaf0b369eb_Снимок экрана (2).png"
+      "OriginalItemSpec": "wwwroot/Images/b2ca33db-97a1-43a8-b831-5acaf0b369eb_Снимок экрана (2).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\b6ee3f86-79f2-4036-8356-ed0afa667ae4_Снимок экрана (1).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/b6ee3f86-79f2-4036-8356-ed0afa667ae4_Снимок экрана (1).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/b6ee3f86-79f2-4036-8356-ed0afa667ae4_Снимок экрана (1).png",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\b6ee3f86-79f2-4036-8356-ed0afa667ae4_Снимок экрана (1).png"
+      "OriginalItemSpec": "wwwroot/Images/b6ee3f86-79f2-4036-8356-ed0afa667ae4_Снимок экрана (1).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\d8cf7d21-88f6-458b-a151-2110083d553c_Снимок экрана (2).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/d8cf7d21-88f6-458b-a151-2110083d553c_Снимок экрана (2).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/d8cf7d21-88f6-458b-a151-2110083d553c_Снимок экрана (2).png",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\d8cf7d21-88f6-458b-a151-2110083d553c_Снимок экрана (2).png"
+      "OriginalItemSpec": "wwwroot/Images/d8cf7d21-88f6-458b-a151-2110083d553c_Снимок экрана (2).png"
     },
     {
-      "Identity": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\Images\\d8db8328-dbb2-42ad-9229-80e2b79757b0_Снимок экрана (2).png",
+      "Identity": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/Images/d8db8328-dbb2-42ad-9229-80e2b79757b0_Снимок экрана (2).png",
       "SourceId": "ProductsAdministration.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\ProductsAdministration.API\\wwwroot\\",
+      "ContentRoot": "/home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/wwwroot/",
       "BasePath": "_content/ProductsAdministration.API",
       "RelativePath": "Images/d8db8328-dbb2-42ad-9229-80e2b79757b0_Снимок экрана (2).png",
       "AssetKind": "All",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\d8db8328-dbb2-42ad-9229-80e2b79757b0_Снимок экрана (2).png"
+      "OriginalItemSpec": "wwwroot/Images/d8db8328-dbb2-42ad-9229-80e2b79757b0_Снимок экрана (2).png"
     }
   ]
 }

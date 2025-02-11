@@ -1,40 +1,120 @@
 ﻿services:
   authentication.api:
     image: authentication.api
+    container_name: authentication.api
     build:
       context: .
       dockerfile: Authentication.API/Dockerfile
+    environment:
+      DATABASE_URL: "postgresql://postgres:password@authenticationDb:5432/AuthenticationDb"
+    networks:
+      - CryptoMarketNetwork
+    depends_on:
+      - authenticationDb
     ports:
-      - "5002:80"
+      - "5002:5002"
 
   comments.api:
     image: comments.api
+    container_name: comments.api
     build:
       context: .
       dockerfile: Comments.API/Dockerfile
+    environment:
+      DATABASE_URL: "postgresql://postgres:password@commentsDb:5432/CommentsDb"
+    networks:
+      - CryptoMarketNetwork
+    depends_on:
+      - commentsDb
     ports:
-      - "5004:80"
+      - "5004:5004"
 
   orders.api:
     image: orders.api
+    container_name: orders.api
     build:
       context: .
       dockerfile: Orders.API/Dockerfile
+    environment:
+      DATABASE_URL: "postgresql://postgres:password@ordersDb:5432/OrdersDb"
+    networks:
+      - CryptoMarketNetwork
+    depends_on:
+      - ordersDb
     ports:
-      - "5005:80"
+      - "5005:5005"
 
   productsadministration.api:
     image: productsadministration.api
+    container_name: productsadministration.api
     build:
       context: .
       dockerfile: ProductsAdministration.API/Dockerfile
+      
+    environment:
+      DATABASE_URL: "postgresql://postgres:password@productsadministrationDb:5432/ProductsAdministrationDb"
+    networks:
+      - CryptoMarketNetwork
+    depends_on:
+      - productsadministrationDb
     ports:
-      - "5003:80"
+      - "5001:5001"
 
   apigateway:
     image: apigateway
+    container_name: apigateway
     build:
       context: .
       dockerfile: ApiGateway/Dockerfile
+    networks:
+      - CryptoMarketNetwork
     ports:
-      - "5000:80"
+      - "5000:5000"
+  
+  authenticationDb:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "password"
+      POSTGRES_DB: "AuthenticationDb"
+    networks:
+      - CryptoMarketNetwork
+    ports:
+      - "5102:5432"
+        
+  commentsDb:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "password"
+      POSTGRES_DB: "CommentsDb"
+    networks:
+      - CryptoMarketNetwork
+    ports:
+      - "5104:5432"
+        
+  ordersDb:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "password"
+      POSTGRES_DB: "OrdersDb"
+    networks:
+      - CryptoMarketNetwork
+    ports:
+      - "5105:5432"
+        
+  productsadministrationDb:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "password"
+      POSTGRES_DB: "ProductsAdministrationDb"
+    networks:
+      - CryptoMarketNetwork
+    ports:
+      - "5101:5432"
+    
+networks:
+  CryptoMarketNetwork:
+    driver: bridge

@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<AuthDbContext>(options =>
-    options.UseSqlServer(connectionString));
+    options.UseNpgsql(connectionString));
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<JwtTokenHandler>();
@@ -27,4 +27,4 @@ if (app.Environment.IsDevelopment())
 //app.UseHttpsRedirection();
 app.MapControllers();
 
-app.Run();
+app.Run("http://0.0.0.0:5002");
