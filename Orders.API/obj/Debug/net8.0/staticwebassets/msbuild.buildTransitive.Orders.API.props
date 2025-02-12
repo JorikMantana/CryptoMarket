@@ -1,7 +1,3 @@
 ﻿<Project>
-<<<<<<< HEAD
   <Import Project="../buildMultiTargeting/Orders.API.props" />
-=======
-  <Import Project="..\buildMultiTargeting\Orders.API.props" />
->>>>>>> origin/Blockchain
 </Project>

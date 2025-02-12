@@ -26,11 +26,7 @@
     },
     {
       "DownstreamPathTemplate": "/api/Account/{everything}",
-<<<<<<< HEAD
       "DownstreamScheme": "http",
-=======
-      "DownstreamScheme": "https",
->>>>>>> origin/Blockchain
       "DownstreamHostAndPorts": [
         {
           "Host": "authentication.api",
@@ -42,19 +38,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/Comments/{everything}",
-<<<<<<< HEAD
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "comments.api",
           "Port": 5004
-=======
-      "DownstreamScheme": "https",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 7003
->>>>>>> origin/Blockchain
         }
       ],
       "UpstreamPathTemplate": "/api/Comments/{everything}",
@@ -62,23 +50,39 @@
     },
     {
       "DownstreamPathTemplate": "/api/Orders/{everything}",
-<<<<<<< HEAD
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "orders.api",
           "Port": 5005
-=======
-      "DownstreamScheme": "https",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 7004
->>>>>>> origin/Blockchain
         }
       ],
       "UpstreamPathTemplate": "/api/Orders/{everything}",
       "UpstreamHttpMethod": [ "Get", "Post", "Delete"]
+    },
+    {
+      "DownstreamPathTemplate": "/api/DeployContract/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "blockchain.api",
+          "Port": 5006
+        }
+      ],
+      "UpstreamPathTemplate": "/api/DeployContract/{everything}",
+      "UpstreamHttpMethod": ["Post"]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Pay/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "blockchain.api",
+          "Port": 5006
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Pay/{everything}",
+      "UpstreamHttpMethod": ["Post"]
     }
   ],
   "GlobalConfiguration": {

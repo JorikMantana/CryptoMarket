@@ -50,7 +50,6 @@
     build:
       context: .
       dockerfile: ProductsAdministration.API/Dockerfile
-      
     environment:
       DATABASE_URL: "postgresql://postgres:password@productsadministrationDb:5432/ProductsAdministrationDb"
     networks:
@@ -59,6 +58,22 @@
       - productsadministrationDb
     ports:
       - "5001:5001"
+        
+  blockchain.api:
+    image: blockchain.api
+    container_name: blockchain.api
+    build:
+      context: .
+      dockerfile: Blockchain.API/Dockerfile
+    environment:
+      BlockchainNodeUrl: "http://ganache:8545"
+    depends_on:
+      - ganache
+      
+    networks:
+      - CryptoMarketNetwork
+    ports:
+      - "5006:5006"
 
   apigateway:
     image: apigateway
@@ -114,7 +129,16 @@
       - CryptoMarketNetwork
     ports:
       - "5101:5432"
+        
+  ganache:
+    image: trufflesuite/ganache:latest
+    container_name: ganache
+    networks:
+      - CryptoMarketNetwork
+    ports:
+      - "5123:8545"
     
 networks:
   CryptoMarketNetwork:
     driver: bridge
+  

@@ -20,5 +20,5 @@ if (app.Environment.IsDevelopment())
 app.MapControllers();
 app.UseHttpsRedirection();
 
-app.Run();
+app.Run("http://0.0.0.0:5006");
 
