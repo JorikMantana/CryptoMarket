@@ -1,36 +1,44 @@
 {
   "format": 1,
   "restore": {
-    "/home/wsr2024/RiderProjects/CryptoMarket/Comments.API/Comments.API.csproj": {}
+    "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.API\\Comments.API.csproj": {}
   },
   "projects": {
-    "/home/wsr2024/RiderProjects/CryptoMarket/Comments.API/Comments.API.csproj": {
+    "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.API\\Comments.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.API/Comments.API.csproj",
+        "projectUniqueName": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.API\\Comments.API.csproj",
         "projectName": "Comments.API",
-        "projectPath": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.API/Comments.API.csproj",
-        "packagesPath": "/home/wsr2024/.nuget/packages/",
-        "outputPath": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.API/obj/",
+        "projectPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.API\\Comments.API.csproj",
+        "packagesPath": "C:\\Users\\Jorik Mantana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.API\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/wsr2024/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jorik Mantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/wsr2024/RiderProjects/CryptoMarket/Comments.BLL/Comments.BLL.csproj": {
-                "projectPath": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.BLL/Comments.BLL.csproj"
+              "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.BLL\\Comments.BLL.csproj": {
+                "projectPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.BLL\\Comments.BLL.csproj"
               },
-              "/home/wsr2024/RiderProjects/CryptoMarket/JwtAuthenticationManager/JwtAuthenticationManager.csproj": {
-                "projectPath": "/home/wsr2024/RiderProjects/CryptoMarket/JwtAuthenticationManager/JwtAuthenticationManager.csproj"
+              "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj": {
+                "projectPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj"
               }
             }
           }
@@ -88,34 +96,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/wsr2024/RiderProjects/CryptoMarket/Comments.BLL/Comments.BLL.csproj": {
+    "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.BLL\\Comments.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.BLL/Comments.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.BLL\\Comments.BLL.csproj",
         "projectName": "Comments.BLL",
-        "projectPath": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.BLL/Comments.BLL.csproj",
-        "packagesPath": "/home/wsr2024/.nuget/packages/",
-        "outputPath": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.BLL/obj/",
+        "projectPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.BLL\\Comments.BLL.csproj",
+        "packagesPath": "C:\\Users\\Jorik Mantana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/wsr2024/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jorik Mantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/wsr2024/RiderProjects/CryptoMarket/Comments.DAL/Comments.DAL.csproj": {
-                "projectPath": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.DAL/Comments.DAL.csproj"
+              "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.DAL\\Comments.DAL.csproj": {
+                "projectPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.DAL\\Comments.DAL.csproj"
               }
             }
           }
@@ -160,26 +176,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/wsr2024/RiderProjects/CryptoMarket/Comments.DAL/Comments.DAL.csproj": {
+    "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.DAL\\Comments.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.DAL/Comments.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.DAL\\Comments.DAL.csproj",
         "projectName": "Comments.DAL",
-        "projectPath": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.DAL/Comments.DAL.csproj",
-        "packagesPath": "/home/wsr2024/.nuget/packages/",
-        "outputPath": "/home/wsr2024/RiderProjects/CryptoMarket/Comments.DAL/obj/",
+        "projectPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.DAL\\Comments.DAL.csproj",
+        "packagesPath": "C:\\Users\\Jorik Mantana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\Comments.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/wsr2024/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jorik Mantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -234,26 +258,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/wsr2024/RiderProjects/CryptoMarket/JwtAuthenticationManager/JwtAuthenticationManager.csproj": {
+    "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wsr2024/RiderProjects/CryptoMarket/JwtAuthenticationManager/JwtAuthenticationManager.csproj",
+        "projectUniqueName": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
         "projectName": "JwtAuthenticationManager",
-        "projectPath": "/home/wsr2024/RiderProjects/CryptoMarket/JwtAuthenticationManager/JwtAuthenticationManager.csproj",
-        "packagesPath": "/home/wsr2024/.nuget/packages/",
-        "outputPath": "/home/wsr2024/RiderProjects/CryptoMarket/JwtAuthenticationManager/obj/",
+        "projectPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+        "packagesPath": "C:\\Users\\Jorik Mantana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorik Mantana\\RiderProjects\\CryptoMarket\\JwtAuthenticationManager\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/wsr2024/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jorik Mantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -310,7 +342,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

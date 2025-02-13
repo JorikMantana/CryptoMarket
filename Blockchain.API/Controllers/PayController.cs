@@ -1,4 +1,5 @@
 ﻿using System.Numerics;
+using Blockchain.API.Entities;
 using BlockchainManager.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,9 +17,9 @@ public class PayController : Controller
     }
 
     [HttpPost]
-    public async Task<ActionResult> Pay(string contractAddress, BigInteger amount, BigInteger amountToSend, string privateKey)
+    public async Task<ActionResult> Pay(PayRequest request)
     {
-        await _blockchainPayement.Pay(contractAddress, amount, amountToSend, privateKey);
+        await _blockchainPayement.Pay(request.ContractAddress, request.Amount, request.AmountToSend, request.PrivateKey);
         return Ok();
     }
 }

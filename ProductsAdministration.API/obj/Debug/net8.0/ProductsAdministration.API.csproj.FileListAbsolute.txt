@@ -448,3 +448,14 @@ C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.API/bin
 /home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/bin/Debug/net8.0/Npgsql.dll
 /home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.API/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.csproj.AssemblyReference.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.AssemblyInfoInputs.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.AssemblyInfo.cs
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.csproj.CoreCompileInputs.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.sourcelink.json
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\refint\ProductsAdministration.API.dll
+C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\ProductsAdministration.API\obj\Debug\net8.0\ProductsAdministration.API.pdb
