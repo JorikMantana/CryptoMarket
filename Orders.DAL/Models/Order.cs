@@ -3,6 +3,6 @@
 public class Order
 {
     public int Id { get; set; }
-    public int ProductId { get; set; }
-    public int CustomerId { get; set; }
+    public int ProductId { get; set; } //Id продукта
+    public int CustomerId { get; set; } //Id пользователя
 }
