@@ -19,7 +19,9 @@ public class PayController : Controller
     [HttpPost]
     public async Task<ActionResult> Pay(PayRequest request)
     {
-        await _blockchainPayement.Pay(request.ContractAddress, request.Amount, request.AmountToSend, request.PrivateKey);
-        return Ok();
+        {
+            await _blockchainPayement.Pay(request.ContractAddress, request.Amount, request.AmountToSend, request.PrivateKey);
+            return Ok();
+        }
     }
 }

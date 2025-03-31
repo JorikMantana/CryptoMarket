@@ -62,6 +62,10 @@
             "Mapster.Core": {
               "target": "Package",
               "version": "[1.2.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             }
           },
           "imports": [

@@ -12,10 +12,16 @@ namespace ProductsAdministration.API.Controllers
     public class ProductController : Controller
     {
         private readonly IProductService _productService;
-
+        private readonly IImageService _imageService;
+        
+        private readonly ImageController _imageController;
+        
         public ProductController(IProductService productService, IImageService imageService)
         {
             _productService = productService;
+            _imageService = imageService;
+            
+            _imageController = new ImageController(_imageService);
         }
 
         [HttpPost]
@@ -23,8 +29,8 @@ namespace ProductsAdministration.API.Controllers
         public async Task<ActionResult> AddProduct(ProductDto productDto)
         {
             await _productService.AddProduct(productDto);
-
-            return Ok();
+            
+            return Ok("Product added");
         }
 
         [HttpGet("{id}")]

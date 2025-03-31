@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using ProductsAdministration.API.Entities;
 using ProductsAdministration.BLL.DTO;
 using ProductsAdministration.BLL.Services.IServices;
 
@@ -18,44 +19,32 @@ namespace ProductsAdministration.API.Controllers
 
         [HttpPost]
         [Authorize(Roles = "Admin")]
-        public async Task<ActionResult> AddImages(IEnumerable<IFormFile> images, int productId)
+        public async Task<ActionResult> AddImages(ImageRequest imageRequest)
         {
-            if (images == null || !images.Any())
+            foreach (var image in imageRequest.Images)
             {
-                return BadRequest("No images provided.");
-            }
-
-            foreach (var image in images)
-            {
-                try
+                var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Images");
+                if (!Directory.Exists(uploadsFolder))
                 {
-                    var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Images");
-                    if (!Directory.Exists(uploadsFolder))
-                    {
-                        Directory.CreateDirectory(uploadsFolder);
-                    }
-                    var uniqueFileName = Guid.NewGuid().ToString() + "_" + image.FileName; 
-                    var filePath = Path.Combine(uploadsFolder, uniqueFileName);
-
-                    using (var stream = new FileStream(filePath, FileMode.Create))
-                    {
-                        await image.CopyToAsync(stream);
-                    }
-
-                    string relativePath = $"/Images/{uniqueFileName}";
-
-                    var imageDto = new ImageDto
-                    {
-                        ProductId = productId,
-                        ImagePath = relativePath
-                    };
-
-                    await _imageServie.AddImage(imageDto);
+                    Directory.CreateDirectory(uploadsFolder);
                 }
-                catch (Exception ex)
+                var uniqueFileName = Guid.NewGuid().ToString() + "_" + image.FileName; 
+                var filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                using (var stream = new FileStream(filePath, FileMode.Create))
                 {
-                    return StatusCode(500, $"Internal server error: {ex.Message}");
+                    await image.CopyToAsync(stream);
                 }
+
+                string relativePath = $"/Images/{uniqueFileName}";
+
+                var imageDto = new ImageDto
+                {
+                    ProductId = imageRequest.ProductId,
+                    ImagePath = relativePath
+                };
+
+                await _imageServie.AddImage(imageDto);
             }
 
             return Ok();

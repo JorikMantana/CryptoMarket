@@ -13,21 +13,6 @@ C:/Users/bicks/source/repos/CryptoMarket/ProductsAdministration.DAL/obj/Debug/ne
 C:/Users/bicks/source/repos/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.pdb
 C:/Users/bicks/source/repos/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.genruntimeconfig.cache
 C:/Users/bicks/source/repos/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ref/ProductsAdministration.DAL.dll
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/bin/Debug/net8.0/ProductsAdministration.DAL.deps.json
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/bin/Debug/net8.0/ProductsAdministration.DAL.runtimeconfig.json
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/bin/Debug/net8.0/ProductsAdministration.DAL.dll
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/bin/Debug/net8.0/ProductsAdministration.DAL.pdb
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.csproj.AssemblyReference.cache
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.AssemblyInfoInputs.cache
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.AssemblyInfo.cs
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.csproj.CoreCompileInputs.cache
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.sourcelink.json
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.dll
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/refint/ProductsAdministration.DAL.dll
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.pdb
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ProductsAdministration.DAL.genruntimeconfig.cache
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/ProductsAdministration.DAL/obj/Debug/net8.0/ref/ProductsAdministration.DAL.dll
 /home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.DAL/bin/Debug/net8.0/ProductsAdministration.DAL.deps.json
 /home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.DAL/bin/Debug/net8.0/ProductsAdministration.DAL.runtimeconfig.json
 /home/wsr2024/RiderProjects/CryptoMarket/ProductsAdministration.DAL/bin/Debug/net8.0/ProductsAdministration.DAL.dll

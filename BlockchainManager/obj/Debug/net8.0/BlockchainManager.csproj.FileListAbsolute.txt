@@ -1,16 +1,3 @@
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/bin/Debug/net8.0/BlockchainManager.deps.json
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/bin/Debug/net8.0/BlockchainManager.dll
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/bin/Debug/net8.0/BlockchainManager.pdb
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.csproj.AssemblyReference.cache
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.AssemblyInfoInputs.cache
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.AssemblyInfo.cs
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.csproj.CoreCompileInputs.cache
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.sourcelink.json
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.dll
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/refint/BlockchainManager.dll
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.pdb
-C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/ref/BlockchainManager.dll
 /home/wsr2024/RiderProjects/CryptoMarket/BlockchainManager/bin/Debug/net8.0/BlockchainManager.deps.json
 /home/wsr2024/RiderProjects/CryptoMarket/BlockchainManager/bin/Debug/net8.0/BlockchainManager.dll
 /home/wsr2024/RiderProjects/CryptoMarket/BlockchainManager/bin/Debug/net8.0/BlockchainManager.pdb
@@ -24,16 +11,3 @@ C:/Users/Jorik Mantana/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/ne
 /home/wsr2024/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/refint/BlockchainManager.dll
 /home/wsr2024/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/BlockchainManager.pdb
 /home/wsr2024/RiderProjects/CryptoMarket/BlockchainManager/obj/Debug/net8.0/ref/BlockchainManager.dll
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\bin\Debug\net8.0\BlockchainManager.deps.json
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\bin\Debug\net8.0\BlockchainManager.dll
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\bin\Debug\net8.0\BlockchainManager.pdb
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\BlockchainManager.csproj.AssemblyReference.cache
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\BlockchainManager.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\BlockchainManager.AssemblyInfoInputs.cache
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\BlockchainManager.AssemblyInfo.cs
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\BlockchainManager.csproj.CoreCompileInputs.cache
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\BlockchainManager.sourcelink.json
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\BlockchainManager.dll
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\refint\BlockchainManager.dll
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\BlockchainManager.pdb
-C:\Users\Jorik Mantana\RiderProjects\CryptoMarket\BlockchainManager\obj\Debug\net8.0\ref\BlockchainManager.dll
